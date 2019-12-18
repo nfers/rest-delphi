@@ -1,0 +1,6 @@
+/Win32
+*.local
+*.res
+boss-lock
+__history/*
+*.txt
